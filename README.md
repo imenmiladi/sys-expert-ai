@@ -25,9 +25,3 @@
 - **Le système confirme ou infirme si le diagnostic est possible avec les faits**
 
 ### **Interface ergonomique**
-- **Couleurs douces et design moderne**  
-- **Cadres clairs pour symptômes et diagnostics**  
-- **Zone scrollable pour tous les résultats**
-
-### **Réinitialisation facile**
-- **Bouton pour tout décocher et recommencer un diagnostic**
